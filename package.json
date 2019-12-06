@@ -16,7 +16,7 @@
     "hof-theme-govuk": "^4.3.0"
   },
   "devDependencies": {
-    "eslint": "^3.14.0",
+    "eslint": "^4.18.2",
     "eslint-config-homeoffice": "^2.1.0"
   },
   "name": "ukvi-complaints-prototype",
